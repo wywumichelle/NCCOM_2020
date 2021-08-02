@@ -1,6 +1,10 @@
 # NCCOM_2020
 
-This two matlab files are for visualization. Some data pre-prosseing (i.e. standarlized regression) is needed beforehead to generate the input netcdf file.
+This two matlab files are for visualization.
+Figure 3 for Wu et al. (2020) 
+DOI:10.1038/s41467-020-17581-y
+
+Some data pre-prosseing (i.e. standarlized regression) is needed beforehead to generate the input netcdf file.
 
 Brief intro of method: 
 Multiple linear regression
